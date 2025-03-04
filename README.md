@@ -1,4 +1,4 @@
 # recipe-website
 This is my first Git repository.
 <br>
-Auther- Nawaz husain khan
+Author- Nawaz husain khan
